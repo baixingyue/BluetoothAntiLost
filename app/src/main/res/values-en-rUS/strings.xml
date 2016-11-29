@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 主菜单相关 -->
+    <string name="app_name">Android Com Assist</string>
+    <string name="paried_title">Paried devices</string>
+    <string name="connected_device">Connected devices：</string>
+    <string name="tx_data">trans history:</string>
+    <string name="rx_data">receive history:</string>
+    <string name="sendButton">Send</string>
+    <string name="nodevice">Not connected</string>
+    <string name="clearTx">Clear Trans</string>
+    <string name="clearRx">Clear Receive</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="title_connecting">Connecting...</string>
+    <string name="title_connected_to">Connected: </string>
+    <string name="title_not_connected">not connect devices</string>
+    <string name="clearALL">clear</string>
+    <!-- 菜单 -->
+    <string name="scan">Scan</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="about">About</string>
+    <string name="exit">exit</string>
+    <!-- 搜索界面 -->
+    <string name="noNewDevice">no new device</string>
+    <string name="noPairedDevice">no paired device</string>
+    <string name="scanning">Searching...</string>
+    <string name="select_device">Choose device to connect</string>
+    <string name="pairedDevice">Paired devices</string>
+    <string name="newDevice">New devices</string>
+    <string name="scanNew">Search news</string>
+    <!-- about菜单 -->
+    <string name="app_about">关于android蓝牙串口助手：
+          	本蓝牙串口调试程序方便手机与蓝牙串口设备进行通信。使用之前因先将手机与设备连接，
+          	连接之后就可以像电脑端的串口调试助手一样使用了。
+          	本软件由小林编写：http://www.14blog.com</string>
+
+</resources>

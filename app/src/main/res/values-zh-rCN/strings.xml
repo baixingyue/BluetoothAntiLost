@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 主菜单相关 -->
+    <string name="app_name">蓝牙串口</string>
+    <string name="paried_title">已配对设备</string>
+    <string name="connected_device">已连接设备：</string>
+    <string name="tx_data">发送数据区:</string>
+    <string name="rx_data">接收数据区:</string>
+    <string name="sendButton">发送</string>
+    <string name="nodevice">未连接设备</string>
+    <string name="clearTx">清空发送数据</string>
+    <string name="clearRx">清空接收数据</string>
+    <string name="disconnect">断开连接</string>
+    <string name="title_connecting">连接中...</string>
+    <string name="title_connected_to">已连接: </string>
+    <string name="title_not_connected">未连接设备</string>
+    <string name="clearALL">清空</string>
+    <!-- 菜单 -->
+    <string name="scan">搜索</string>
+    <string name="discoverable">设备可检测</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+    <!-- 搜索界面 -->
+    <string name="noNewDevice">没有发现新设备</string>
+    <string name="noPairedDevice">没有配对的设备</string>
+    <string name="scanning">搜索中...</string>
+    <string name="select_device">选择设备配对</string>
+    <string name="pairedDevice">已配对的设备</string>
+    <string name="newDevice">新搜索的设备</string>
+    <string name="scanNew">搜索新设备</string>
+    <!-- about菜单 -->
+    <string name="app_about">
+          	方便手机直接控制蓝牙串口设备进行通信，轻松实现手机对单片机设备的控制\n\n
+          	典型使用场合：\n
+          	手机 -- 蓝牙串口模块  -- 单片机 \n\n
+          	1. 获取该蓝牙串口助手源代码\n
+          	2. 选购蓝牙串口模块\n
+          	3. 获取更多蓝牙串口相关资料\n\n
+          	
+</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:id="@+id/scan"
+	    android:title="@string/scan"
+	    android:icon="@android:drawable/ic_menu_search"/>
+	<item android:id="@+id/discoverable"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:title="@string/discoverable" />
+	<item android:id="@+id/about"
+	    android:icon="@android:drawable/ic_menu_help"
+	    android:title="@string/about"/>
+	<item android:id="@+id/exit"
+	    android:icon="@android:drawable/ic_menu_close_clear_cancel"
+	    android:title="@string/exit"/>
+</menu>
